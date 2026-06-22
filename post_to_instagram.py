@@ -45,7 +45,7 @@ def publish_carousel(post):
     children = []
 
     for i in range(1, 6):
-        image_url = f"{BASE_URL}/posts/{post_id}/slide_{i}.jpg"
+        image_url = f"{BASE_URL}/{post_id}/slide_{i}.jpg"
         print(f"Creating carousel item {i}: {image_url}")
         item = api_post(f"{IG_USER_ID}/media", {
             "image_url": image_url,
