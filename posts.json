@@ -1,1202 +1,1174 @@
 [
   {
     "id": "day_01",
-    "topic": "French consistency",
+    "topic": "Exercise: correction",
     "slides": [
       {
         "type": "cover",
-        "title": "3 French habits that actually work",
-        "subtitle": "Simple daily system for B1 → B2"
+        "title": "Correction challenge",
+        "subtitle": "Can you fix this sentence?"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Start with 10 minutes of real French audio. Your brain needs rhythm before rules."
+        "title": "Spot the mistake",
+        "body": "Erreur: « Je suis intéressé par apprendre le français. » What sounds wrong?"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Pick one useful sentence and say it 10 times out loud. Fluency comes from repetition, not just notes."
+        "title": "Choose",
+        "body": "A) intéressé pour apprendre  B) je m’intéresse à apprendre  C) intéressant à apprendre"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Don’t collect new words forever. Reuse what you forgot yesterday."
+        "title": "Correction",
+        "body": "Best: B. Use « s’intéresser à ». More polished: « Je m’intéresse à l’apprentissage du français. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Want a B2 routine? Comment B2 and follow @milywan_education."
+        "title": "Your turn",
+        "body": "Comment your own sentence with « s’intéresser à »."
       }
     ],
-    "caption": "3 French habits that actually work. Save this post and use it in your French routine this week.",
+    "caption": "Correction challenge: the natural structure is « s’intéresser à ». Try your own sentence.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchgrammar"
     ]
   },
   {
     "id": "day_02",
-    "topic": "Speaking confidence",
+    "topic": "Tip: natural French",
     "slides": [
       {
         "type": "cover",
-        "title": "Stop freezing when speaking French",
-        "subtitle": "Use this simple speaking trick"
+        "title": "Stop saying « je suis excité »",
+        "subtitle": "A common awkward mistake"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Translation slows you down. Build small ready-to-use sentence blocks instead."
+        "title": "The problem",
+        "body": "In French, « je suis excité » can sound too physical or awkward depending on context."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Use: « À mon avis… », « Je pense que… », « Ce qui est intéressant, c’est que… »"
+        "title": "Better options",
+        "body": "Use « J’ai hâte de… » for looking forward. Use « Je suis enthousiaste » for professional excitement."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Your first goal is not perfection. It’s keeping the conversation alive."
+        "title": "Examples",
+        "body": "« J’ai hâte de commencer le cours. » « Je suis enthousiaste à l’idée de pratiquer davantage. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment SPEAK if you want more French speaking prompts."
+        "title": "Practice",
+        "body": "Rewrite: “I’m excited to improve my French.”"
       }
     ],
-    "caption": "Stop freezing when speaking French. Save this post and use it in your French routine this week.",
+    "caption": "Stop translating “I’m excited” directly. Try « j’ai hâte de… » or « je suis enthousiaste à l’idée de… ».",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchmistakes"
     ]
   },
   {
     "id": "day_03",
-    "topic": "TCF speaking",
+    "topic": "Exercise: subjunctive",
     "slides": [
       {
         "type": "cover",
-        "title": "TCF speaking: what B2 answers need",
-        "subtitle": "Structure beats memorization"
+        "title": "Mini grammar quiz",
+        "subtitle": "Subjunctive or not?"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Give a clear opinion: « Je suis plutôt favorable à… »"
+        "title": "Complete",
+        "body": "« Il faut que tu ___ plus souvent en français. »"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Add one reason with: « parce que », « car », « étant donné que »."
+        "title": "Options",
+        "body": "A) pratiques  B) pratique  C) pratiquer  D) pratiquais"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Add one example to make your answer sound developed and natural."
+        "title": "Answer",
+        "body": "A) « pratiques ». After « il faut que », use the subjunctive: « que tu pratiques »."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment TCF and follow for more B2 speaking strategies."
+        "title": "Comment",
+        "body": "Write one sentence with « il faut que… »."
       }
     ],
-    "caption": "TCF speaking: what B2 answers need. Save this post and use it in your French routine this week.",
+    "caption": "Subjunctive practice: « Il faut que » triggers the subjunctive. Try your own sentence.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#subjonctif"
     ]
   },
   {
     "id": "day_04",
-    "topic": "Advanced vocabulary",
+    "topic": "Exercise: writing",
     "slides": [
       {
         "type": "cover",
-        "title": "Replace basic French words",
-        "subtitle": "Sound more B2 instantly"
+        "title": "Upgrade this sentence",
+        "subtitle": "From basic to B2 French"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Instead of « très important », use « essentiel », « primordial », or « crucial »."
+        "title": "Basic",
+        "body": "« C’est important pour moi d’apprendre le français. »"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Instead of « beaucoup de », use « de nombreux » or « un nombre considérable de »."
+        "title": "Add precision",
+        "body": "Why is it important? Work, PR, integration, confidence? B2 writing needs a clear reason."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Instead of « je pense », use « j’estime que » or « je suis d’avis que »."
+        "title": "Example upgrade",
+        "body": "« Améliorer mon français est essentiel pour mieux m’intégrer et saisir davantage d’occasions professionnelles. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment VOCAB and save this post."
+        "title": "Your turn",
+        "body": "Rewrite the basic sentence in a more advanced way."
       }
     ],
-    "caption": "Replace basic French words. Save this post and use it in your French routine this week.",
+    "caption": "B2 writing is about precision. Don’t just say it’s important—explain why.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchwriting"
     ]
   },
   {
     "id": "day_05",
-    "topic": "Listening strategy",
+    "topic": "Tip: connectors",
     "slides": [
       {
         "type": "cover",
-        "title": "Why French sounds too fast",
-        "subtitle": "It’s not just speed"
+        "title": "Stop overusing « parce que »",
+        "subtitle": "3 better connectors"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "French uses liaison and linking, so words don’t always sound separate."
+        "title": "Car",
+        "body": "Formal writing: « Il faut pratiquer régulièrement, car la fluidité demande du temps. »"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Native speakers reduce sounds: « je ne sais pas » can sound like « j’sais pas »."
+        "title": "Puisque",
+        "body": "Known reason: « Puisque tu vis au Québec, le français est un atout. »"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Replay 20 seconds until you hear the details. Don’t force long podcasts too early."
+        "title": "Étant donné que",
+        "body": "Formal cause: « Étant donné que l’examen approche, il faut réviser chaque jour. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment LISTEN for more French listening tips."
+        "title": "Practice",
+        "body": "Rewrite a sentence using one connector."
       }
     ],
-    "caption": "Why French sounds too fast. Save this post and use it in your French routine this week.",
+    "caption": "Replace some uses of « parce que » with connectors that match the context.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchconnectors"
     ]
   },
   {
     "id": "day_06",
-    "topic": "Writing better sentences",
+    "topic": "Exercise: speaking",
     "slides": [
       {
         "type": "cover",
-        "title": "Make your French writing more B2",
-        "subtitle": "One simple upgrade"
+        "title": "Speaking prompt",
+        "subtitle": "Answer like a B2 learner"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Basic: « C’est important parce que ça aide les gens. »"
+        "title": "Question",
+        "body": "« Est-il plus efficace d’apprendre une langue seul ou en groupe ? »"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Better: « C’est essentiel, car cela permet aux gens de mieux s’adapter. »"
+        "title": "Structure",
+        "body": "Use: opinion + reason + example. Start with « À mon avis… »"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "More precise vocabulary + formal connectors = stronger writing."
+        "title": "Model",
+        "body": "« À mon avis, apprendre en groupe est plus motivant, car on peut pratiquer spontanément. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment WRITE for more sentence upgrades."
+        "title": "Comment",
+        "body": "Write your answer in 2–3 lines."
       }
     ],
-    "caption": "Make your French writing more B2. Save this post and use it in your French routine this week.",
+    "caption": "Speaking exercise: answer with opinion + reason + example.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#speakfrench"
     ]
   },
   {
     "id": "day_07",
-    "topic": "Grammar connectors",
+    "topic": "Exercise: mistake",
     "slides": [
       {
         "type": "cover",
-        "title": "5 connectors for B2 French",
-        "subtitle": "Use these in speaking and writing"
+        "title": "Find the mistake",
+        "subtitle": "One tiny word is wrong"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "To add: « de plus », « en outre », « également »."
+        "title": "Sentence",
+        "body": "« Je cherche pour un emploi bilingue. » Correct or incorrect?"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "To contrast: « cependant », « pourtant », « en revanche »."
+        "title": "Hint",
+        "body": "Some French verbs don’t need a preposition even if English uses one."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "To conclude: « en somme », « ainsi », « pour conclure »."
+        "title": "Correction",
+        "body": "Correct: « Je cherche un emploi bilingue. » The verb « chercher » takes a direct object."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment B2 for more useful French connectors."
+        "title": "Practice",
+        "body": "Write a sentence with « chercher »."
       }
     ],
-    "caption": "5 connectors for B2 French. Save this post and use it in your French routine this week.",
+    "caption": "Common mistake: don’t say « chercher pour ». Say « chercher quelque chose ».",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchmistakes"
     ]
   },
   {
     "id": "day_08",
-    "topic": "Pronunciation",
+    "topic": "Tip: depuis",
     "slides": [
       {
         "type": "cover",
-        "title": "Pronunciation tip French learners ignore",
-        "subtitle": "Focus on rhythm, not accent"
+        "title": "Stop misusing « depuis »",
+        "subtitle": "A common tense mistake"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "You can have an accent and still be clear. Clarity matters more."
+        "title": "Mistake",
+        "body": "« J’ai étudié le français depuis deux ans. » sounds wrong if you still study French."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "French flows in rhythm groups. Don’t stress every word equally."
+        "title": "Rule",
+        "body": "For an action that started in the past and continues now: present tense + depuis."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Shadow one short sentence before moving to a full paragraph."
+        "title": "Correct",
+        "body": "« J’étudie le français depuis deux ans. » « Je vis au Canada depuis 2022. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment PRONONCIATION and save this post."
+        "title": "Your sentence",
+        "body": "Write one true sentence with « depuis »."
       }
     ],
-    "caption": "Pronunciation tip French learners ignore. Save this post and use it in your French routine this week.",
+    "caption": "If the action still continues, use present tense with « depuis ».",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#depuis"
     ]
   },
   {
     "id": "day_09",
-    "topic": "Avoiding passive learning",
+    "topic": "Exercise: natural French",
     "slides": [
       {
         "type": "cover",
-        "title": "Are you studying French or just consuming it?",
-        "subtitle": "This changes everything"
+        "title": "Which sounds natural?",
+        "subtitle": "Expression challenge"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Passive: watching videos, saving posts, reading lists… but never producing French."
+        "title": "Meaning",
+        "body": "You want to say: “I’m looking forward to seeing you.”"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Active: writing 5 sentences, speaking for 2 minutes, correcting one mistake."
+        "title": "Options",
+        "body": "A) Je suis excité de te voir  B) J’ai hâte de te voir  C) Je regarde avant de te voir"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "For every 20 minutes of input, produce at least 5 minutes of French."
+        "title": "Answer",
+        "body": "Best: B. « J’ai hâte de te voir » is natural. C is word-for-word translation."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment ACTIVE if you’re switching to active practice."
+        "title": "Practice",
+        "body": "Make your own sentence with « j’ai hâte de… »."
       }
     ],
-    "caption": "Are you studying French or just consuming it?. Save this post and use it in your French routine this week.",
+    "caption": "Natural French challenge: avoid translating “looking forward” word-for-word.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#naturalfrench"
     ]
   },
   {
     "id": "day_10",
-    "topic": "Canadian PR motivation",
+    "topic": "Exercise: TCF speaking",
     "slides": [
       {
         "type": "cover",
-        "title": "Learning French for Canada PR?",
-        "subtitle": "Here’s why consistency matters"
+        "title": "Mini TCF speaking task",
+        "subtitle": "Convince someone in French"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "French can strengthen immigration and career opportunities in Canada."
+        "title": "Task",
+        "body": "Convince a friend to join a French conversation class with you."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Random study is not enough. You need listening, speaking, writing, and review."
+        "title": "Structure",
+        "body": "Invite them. Give a benefit. Reassure them. Suggest a time."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "A realistic daily routine beats a huge plan you quit after 3 days."
+        "title": "Starter",
+        "body": "« Tu devrais venir avec moi, car ça nous aiderait à parler plus spontanément. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment PR and follow for daily French support."
+        "title": "Try it",
+        "body": "Write your persuasive answer in 3–4 lines."
       }
     ],
-    "caption": "Learning French for Canada PR?. Save this post and use it in your French routine this week.",
+    "caption": "Mini TCF/TEF speaking practice: persuade, explain, reassure, suggest.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
+      "#frenchpractice",
+      "#milywaneducation",
       "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#tefcanada"
     ]
   },
   {
     "id": "day_11",
-    "topic": "Subjunctive",
+    "topic": "Exercise: prepositions",
     "slides": [
       {
         "type": "cover",
-        "title": "Stop fearing the subjunctive",
-        "subtitle": "French grammar made simpler"
+        "title": "Preposition quiz",
+        "subtitle": "Fill in the blank"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Use it after emotion, necessity, doubt, and certain expressions."
+        "title": "Sentence",
+        "body": "« Je rêve ___ vivre dans une ville bilingue. »"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Example: « Il faut que tu pratiques. »"
+        "title": "Options",
+        "body": "A) à  B) de  C) pour  D) en"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Example: « Je suis content que tu sois là. »"
+        "title": "Answer",
+        "body": "B) « de ». Correct: « Je rêve de vivre dans une ville bilingue. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment GRAMMAR for more simple French explanations."
+        "title": "Practice",
+        "body": "Write one sentence with « rêver de »."
       }
     ],
-    "caption": "Stop fearing the subjunctive. Save this post and use it in your French routine this week.",
+    "caption": "Preposition exercise: « rêver de + infinitive ».",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchgrammar"
     ]
   },
   {
     "id": "day_12",
-    "topic": "Reading",
+    "topic": "Exercise: formal French",
     "slides": [
       {
         "type": "cover",
-        "title": "How to read French without translating",
-        "subtitle": "Read smarter, not slower"
+        "title": "Formal or casual?",
+        "subtitle": "Choose the exam-friendly version"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Read for meaning first, not every unknown word."
+        "title": "Context",
+        "body": "You are writing a formal paragraph for TCF/TEF. Which sentence is better?"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Underline repeated words and useful expressions."
+        "title": "Options",
+        "body": "A) Y a plein de problèmes  B) Il existe de nombreux problèmes  C) Il y a trop de trucs"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Summarize the paragraph in one French sentence."
+        "title": "Answer",
+        "body": "Best: B. A and C are too casual for academic or exam writing."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment READ for more B2 reading drills."
+        "title": "Your turn",
+        "body": "Rewrite: « C’est un gros problème » formally."
       }
     ],
-    "caption": "How to read French without translating. Save this post and use it in your French routine this week.",
+    "caption": "Formal French exercise: register matters in exam writing.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
+      "#frenchpractice",
+      "#milywaneducation",
       "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchwriting"
     ]
   },
   {
     "id": "day_13",
-    "topic": "Memory",
+    "topic": "Tip: opinion",
     "slides": [
       {
         "type": "cover",
-        "title": "Why you forget French words",
-        "subtitle": "Recognition is not enough"
+        "title": "Stop repeating « je pense »",
+        "subtitle": "Better B2 opinion phrases"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "You recognize words but don’t reuse them enough."
+        "title": "Neutral",
+        "body": "« À mon avis… » is simple, natural, and useful."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Make your own sentence with every important word."
+        "title": "Formal",
+        "body": "« J’estime que… » or « Je suis d’avis que… » sound stronger in arguments."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Review after 24 hours, 3 days, and 7 days."
+        "title": "Nuanced",
+        "body": "« Il me semble que… » is useful when you want to sound less absolute."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment MEMORY if vocabulary disappears too fast."
+        "title": "Practice",
+        "body": "Give your opinion using one phrase."
       }
     ],
-    "caption": "Why you forget French words. Save this post and use it in your French routine this week.",
+    "caption": "Vary your opinion phrases depending on strength and formality.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchspeaking"
     ]
   },
   {
     "id": "day_14",
-    "topic": "Conversation",
+    "topic": "Exercise: dialogue",
     "slides": [
       {
         "type": "cover",
-        "title": "Keep a French conversation going",
-        "subtitle": "Stop giving one-word answers"
+        "title": "Finish the dialogue",
+        "subtitle": "Make it sound natural"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Ask follow-up questions instead of ending the conversation."
+        "title": "Dialogue",
+        "body": "A: « Pourquoi veux-tu améliorer ton français ? » B: « ___ »"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Use: « Et toi ? », « Pourquoi ? », « Comment ça ? »"
+        "title": "Goal",
+        "body": "Answer with one personal reason and one concrete example. Avoid vague answers."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "React naturally: « Ah bon ? », « C’est intéressant ! »"
+        "title": "Model",
+        "body": "« Je veux l’améliorer pour pouvoir travailler dans un milieu bilingue, par exemple dans le service à la clientèle. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment CHAT for more conversation prompts."
+        "title": "Your answer",
+        "body": "Complete B’s answer in French."
       }
     ],
-    "caption": "Keep a French conversation going. Save this post and use it in your French routine this week.",
+    "caption": "Conversation exercise: add a concrete example so your answer sounds developed.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchconversation"
     ]
   },
   {
     "id": "day_15",
-    "topic": "Mistakes",
+    "topic": "Exercise: pronouns",
     "slides": [
       {
         "type": "cover",
-        "title": "One mistake blocking your French",
-        "subtitle": "Too many resources, not enough routine"
+        "title": "Pronoun challenge",
+        "subtitle": "Replace the repeated words"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Studying too many resources at once creates confusion."
+        "title": "Rewrite",
+        "body": "« Je regarde les vidéos. Je comprends les vidéos. »"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Pick one main course or daily routine."
+        "title": "Hint",
+        "body": "For a direct object plural, use « les » before the verb."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Use extra resources only to support your main routine."
+        "title": "Correction",
+        "body": "« Je regarde les vidéos et je les comprends. » « les » replaces « les vidéos »."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment ROUTINE if you need a French plan."
+        "title": "Try another",
+        "body": "Rewrite: « J’écoute le podcast. Je trouve le podcast utile. »"
       }
     ],
-    "caption": "One mistake blocking your French. Save this post and use it in your French routine this week.",
+    "caption": "Object pronouns make your French smoother and less repetitive.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchpronouns"
     ]
   },
   {
     "id": "day_16",
-    "topic": "Formal French",
+    "topic": "Tip: politeness",
     "slides": [
       {
         "type": "cover",
-        "title": "Sound more professional in French",
-        "subtitle": "Simple vocabulary swaps"
+        "title": "Does your French sound too direct?",
+        "subtitle": "Make requests more natural"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Replace « ça » with « cela » in formal writing."
+        "title": "Too direct",
+        "body": "« Donne-moi ton avis. » Correct, but it can sound too direct."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Replace « plein de » with « de nombreux »."
+        "title": "Softer",
+        "body": "Use conditional: « Pourrais-tu me donner ton avis ? »"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Replace « parce que » sometimes with « car »."
+        "title": "Email useful",
+        "body": "Instead of « Je veux savoir », write « J’aimerais savoir » or « Je souhaiterais savoir »."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment FORMAL for more upgrades."
+        "title": "Rewrite",
+        "body": "Make this polite: « Explique-moi la règle. »"
       }
     ],
-    "caption": "Sound more professional in French. Save this post and use it in your French routine this week.",
+    "caption": "Use the conditional to sound more natural in requests and emails.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchpoliteness"
     ]
   },
   {
     "id": "day_17",
-    "topic": "Speaking exam",
+    "topic": "Exercise: expression",
     "slides": [
       {
         "type": "cover",
-        "title": "B2 speaking formula",
-        "subtitle": "Opinion + reason + example + nuance"
+        "title": "This or that?",
+        "subtitle": "Expression edition"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Start with a clear opinion."
+        "title": "Choose",
+        "body": "Which one is correct for “make a decision”?"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Support it with one reason and one example."
+        "title": "Options",
+        "body": "A) faire une décision  B) prendre une décision  C) créer une décision"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Add nuance with « même si » or « cependant »."
+        "title": "Answer",
+        "body": "Best: B. In French, we say « prendre une décision »."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment ORAL for more exam structures."
+        "title": "Practice",
+        "body": "Write a sentence with « prendre une décision »."
       }
     ],
-    "caption": "B2 speaking formula. Save this post and use it in your French routine this week.",
+    "caption": "Some French expressions do not translate directly from English.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchvocabulary"
     ]
   },
   {
     "id": "day_18",
-    "topic": "Listening",
+    "topic": "Exercise: listening",
     "slides": [
       {
         "type": "cover",
-        "title": "Podcast method for French learners",
-        "subtitle": "Don’t listen once and move on"
+        "title": "Real French listening trap",
+        "subtitle": "What happens in fast speech?"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "First listen for general meaning."
+        "title": "Phrase",
+        "body": "« Je ne sais pas » is often reduced in casual speech."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Second listen for useful phrases."
+        "title": "Choose",
+        "body": "Which might you hear? A) clear full phrase  B) J’sais pas  C) Je suis pas"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Third listen and repeat 3 short sentences aloud."
+        "title": "Answer",
+        "body": "B) « J’sais pas ». Spoken French often drops « ne » and reduces « je »."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment PODCAST for more listening ideas."
+        "title": "Comment",
+        "body": "What phrase is hardest for you to hear?"
       }
     ],
-    "caption": "Podcast method for French learners. Save this post and use it in your French routine this week.",
+    "caption": "Listening exercise: spoken French reduces words and changes rhythm.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchlistening"
     ]
   },
   {
     "id": "day_19",
-    "topic": "Grammar",
+    "topic": "Exercise: agreement",
     "slides": [
       {
         "type": "cover",
-        "title": "French sentence architecture",
-        "subtitle": "Build cleaner sentences"
+        "title": "Agreement correction",
+        "subtitle": "Can you spot the mistake?"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Subject + verb + object is your base."
+        "title": "Sentence",
+        "body": "« Les informations sont intéressant. » Correct or incorrect?"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Add connectors carefully."
+        "title": "Hint",
+        "body": "« les informations » is feminine plural."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Don’t overcomplicate every sentence."
+        "title": "Correction",
+        "body": "Correct: « Les informations sont intéressantes. » Add -es for feminine plural."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment SENTENCE for more grammar tips."
+        "title": "Practice",
+        "body": "Correct: « Les idées sont important. »"
       }
     ],
-    "caption": "French sentence architecture. Save this post and use it in your French routine this week.",
+    "caption": "Adjective agreement matters, especially in writing tasks.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchgrammar"
     ]
   },
   {
     "id": "day_20",
-    "topic": "Writing exam",
+    "topic": "Tip: listening",
     "slides": [
       {
         "type": "cover",
-        "title": "B2 writing checklist",
-        "subtitle": "Before you submit"
+        "title": "5 listening traps",
+        "subtitle": "Why French sounds fast"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Is your opinion clear?"
+        "title": "Trap 1",
+        "body": "The « ne » often disappears: « Je ne sais pas » → « J’sais pas »."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Do you have connectors?"
+        "title": "Trap 2",
+        "body": "Short words connect: « tu es » → « t’es », « il y a » → « y a »."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Did you give examples?"
+        "title": "Trap 3",
+        "body": "You hear rhythm groups, not separate words. Train with 10–20 second clips."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment CHECKLIST for more writing help."
+        "title": "Your turn",
+        "body": "Which reduction confuses you most?"
       }
     ],
-    "caption": "B2 writing checklist. Save this post and use it in your French routine this week.",
+    "caption": "Spoken French changes sounds and word boundaries. Train for reductions.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#spokenfrench"
     ]
   },
   {
     "id": "day_21",
-    "topic": "Vocabulary",
+    "topic": "Exercise: translation",
     "slides": [
       {
         "type": "cover",
-        "title": "Learn words by topic",
-        "subtitle": "Random lists are harder"
+        "title": "Translate naturally",
+        "subtitle": "Not word-for-word"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Group words by real situations."
+        "title": "English",
+        "body": "“I’m looking forward to improving my French this year.”"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Use them in mini-stories."
+        "title": "Avoid",
+        "body": "Don’t translate “looking forward” literally. Think « avoir hâte de »."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Review words in context, not alone."
+        "title": "One answer",
+        "body": "« J’ai hâte d’améliorer mon français cette année. » Formal: « Je suis impatient(e) de progresser… »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment VOCAB for topic-based lists."
+        "title": "Your version",
+        "body": "Comment your natural translation."
       }
     ],
-    "caption": "Learn words by topic. Save this post and use it in your French routine this week.",
+    "caption": "Natural French is not always word-for-word English.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchtranslation"
     ]
   },
   {
     "id": "day_22",
-    "topic": "Confidence",
+    "topic": "Exercise: connector",
     "slides": [
       {
         "type": "cover",
-        "title": "Stop waiting to feel ready",
-        "subtitle": "Speak before you feel perfect"
+        "title": "Choose the best connector",
+        "subtitle": "Cause, contrast, or sequence?"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Speaking before ready is part of learning."
+        "title": "Sentence",
+        "body": "« J’aimerais parler plus souvent, ___ j’ai peur de faire des erreurs. »"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Start with 30 seconds."
+        "title": "Options",
+        "body": "A) donc  B) cependant  C) car  D) ensuite"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Repeat the same topic twice and improve it."
+        "title": "Answer",
+        "body": "Best: B) « cependant ». It shows contrast: you want to speak, but fear mistakes."
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment READY if you’ll practice today."
+        "title": "Practice",
+        "body": "Write one sentence using « cependant »."
       }
     ],
-    "caption": "Stop waiting to feel ready. Save this post and use it in your French routine this week.",
+    "caption": "Choose connectors based on the relationship between ideas.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchconnectors"
     ]
   },
   {
     "id": "day_23",
-    "topic": "Pronunciation",
+    "topic": "Tip: prepositions",
     "slides": [
       {
         "type": "cover",
-        "title": "The French R is not everything",
-        "subtitle": "Don’t let one sound block you"
+        "title": "3 preposition mistakes to fix",
+        "subtitle": "Small errors, big difference"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "One sound should not stop your speaking."
+        "title": "Mistake 1",
+        "body": "Don’t say « chercher pour un travail ». Say: « chercher un travail »."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Focus on vowels and rhythm too."
+        "title": "Mistake 2",
+        "body": "Say « dépendre de ». Example: « Cela dépend de la situation. »"
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Clarity matters more than sounding native."
+        "title": "Mistake 3",
+        "body": "Say « penser à quelqu’un » when someone is on your mind: « Je pense à ma famille. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment SOUND for pronunciation tips."
+        "title": "Comment",
+        "body": "Which one do you make most?"
       }
     ],
-    "caption": "The French R is not everything. Save this post and use it in your French routine this week.",
+    "caption": "Prepositions are small, but they make your French much cleaner.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchprepositions"
     ]
   },
   {
     "id": "day_24",
-    "topic": "TEF Canada",
+    "topic": "Exercise: opinion",
     "slides": [
       {
         "type": "cover",
-        "title": "TEF/TCF mindset shift",
-        "subtitle": "Communicate clearly"
+        "title": "B2 opinion question",
+        "subtitle": "Answer in French"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "You are not proving you know every word."
+        "title": "Question",
+        "body": "« Les réseaux sociaux aident-ils vraiment à apprendre une langue ? »"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "You are showing you can communicate clearly."
+        "title": "Avoid",
+        "body": "Avoid: « oui, c’est utile ». Add nuance or a condition."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Structure your answers before adding details."
+        "title": "Model",
+        "body": "« Ils peuvent être utiles, à condition de ne pas se limiter à regarder passivement du contenu. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment TEF for exam practice."
+        "title": "Your opinion",
+        "body": "Answer in 2–3 lines using « à condition de »."
       }
     ],
-    "caption": "TEF/TCF mindset shift. Save this post and use it in your French routine this week.",
+    "caption": "B2 opinion exercise: add nuance with « à condition de » or « cependant ».",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchwriting"
     ]
   },
   {
     "id": "day_25",
-    "topic": "Daily routine",
+    "topic": "Exercise: manquer",
     "slides": [
       {
         "type": "cover",
-        "title": "The 30-minute French routine",
-        "subtitle": "Simple and repeatable"
+        "title": "Correct or incorrect?",
+        "subtitle": "A tricky French verb"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "10 minutes listening."
+        "title": "Sentence",
+        "body": "« Je manque ma famille. » Does this mean “I miss my family”?"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "10 minutes speaking or shadowing."
+        "title": "Think",
+        "body": "Be careful: « manquer » works differently from English."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "10 minutes writing or review."
+        "title": "Correction",
+        "body": "To say “I miss my family”: « Ma famille me manque. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment ROUTINE for the full plan."
+        "title": "Practice",
+        "body": "Translate: “I miss my friends.”"
       }
     ],
-    "caption": "The 30-minute French routine. Save this post and use it in your French routine this week.",
+    "caption": "Tricky verb exercise: « manquer » does not follow English word order.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchverbs"
     ]
   },
   {
     "id": "day_26",
-    "topic": "Grammar correction",
+    "topic": "Tip: writing",
     "slides": [
       {
         "type": "cover",
-        "title": "From A2 to B2 sentences",
-        "subtitle": "Upgrade your expression"
+        "title": "One writing upgrade",
+        "subtitle": "Make your sentence less basic"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Basic: « Je veux apprendre le français. »"
+        "title": "Basic",
+        "body": "« Je veux apprendre le français parce que c’est important. » Correct, but vague."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Better: « Je souhaite améliorer mon français afin d’atteindre le niveau B2. »"
+        "title": "Upgrade",
+        "body": "Replace « je veux » with « je souhaite ». Replace « important » with a specific purpose."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Precise verbs and purpose phrases make your sentence stronger."
+        "title": "B2 version",
+        "body": "« Je souhaite améliorer mon français afin de mieux m’intégrer dans un environnement bilingue. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment UPGRADE for more sentence fixes."
+        "title": "Rewrite",
+        "body": "Upgrade: « Je veux parler mieux. »"
       }
     ],
-    "caption": "From A2 to B2 sentences. Save this post and use it in your French routine this week.",
+    "caption": "B2 writing: replace vague words with purpose, context, and stronger verbs.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchwriting"
     ]
   },
   {
     "id": "day_27",
-    "topic": "Motivation",
+    "topic": "Exercise: short answer",
     "slides": [
       {
         "type": "cover",
-        "title": "French progress feels invisible",
-        "subtitle": "Track it properly"
+        "title": "Short answer challenge",
+        "subtitle": "Answer in 2 French sentences"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "You improve before you notice it."
+        "title": "Prompt",
+        "body": "« Quelle habitude t’aide le plus à progresser en français ? »"
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Record yourself weekly."
+        "title": "Requirement",
+        "body": "Use one connector: « car », « cependant », « de plus », or « par exemple »."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Compare old and new answers."
+        "title": "Model",
+        "body": "« L’écoute quotidienne m’aide, car elle m’habitue au rythme naturel. Par exemple, j’écoute un podcast chaque matin. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment PROGRESS if you need motivation."
+        "title": "Your answer",
+        "body": "Comment your 2-sentence answer."
       }
     ],
-    "caption": "French progress feels invisible. Save this post and use it in your French routine this week.",
+    "caption": "Short writing challenge: answer with one connector and one example.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchpractice"
     ]
   },
   {
     "id": "day_28",
-    "topic": "Listening mistakes",
+    "topic": "Tip: reactions",
     "slides": [
       {
         "type": "cover",
-        "title": "Don’t listen with subtitles forever",
-        "subtitle": "Use subtitles strategically"
+        "title": "Sound less robotic in French",
+        "subtitle": "Use natural reactions"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Subtitles help, but they can become a crutch."
+        "title": "Instead of only yes",
+        "body": "Use: « carrément », « exactement », « je suis d’accord », « c’est clair » depending on context."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Try audio first."
+        "title": "Instead of only no",
+        "body": "Use: « pas vraiment », « pas forcément », « je ne dirais pas ça »."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Use subtitles only to verify."
+        "title": "Example",
+        "body": "A: « Apprendre seul est toujours mieux. » B: « Pas forcément, ça dépend de la personne. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment AUDIO for listening drills."
+        "title": "Practice",
+        "body": "Reply naturally: « Le français est impossible. »"
       }
     ],
-    "caption": "Don’t listen with subtitles forever. Save this post and use it in your French routine this week.",
+    "caption": "Natural reactions make your French sound spontaneous, not textbook.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#naturalfrench"
     ]
   },
   {
     "id": "day_29",
-    "topic": "B2 mindset",
+    "topic": "Exercise: email",
     "slides": [
       {
         "type": "cover",
-        "title": "B2 is not perfect French",
-        "subtitle": "This changes everything"
+        "title": "Formal email mini-task",
+        "subtitle": "Write one polite request"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "B2 means you can explain, defend, and organize ideas."
+        "title": "Situation",
+        "body": "You want to ask a teacher for extra speaking practice."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Mistakes are allowed."
+        "title": "Avoid",
+        "body": "Avoid: « Je veux plus de pratique. » It is too direct."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Communication must stay clear."
+        "title": "Model",
+        "body": "« Je souhaiterais savoir s’il serait possible d’avoir davantage d’occasions de pratiquer l’oral. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Comment B2 if this changed your mindset."
+        "title": "Your sentence",
+        "body": "Write one polite request using « je souhaiterais savoir si… »."
       }
     ],
-    "caption": "B2 is not perfect French. Save this post and use it in your French routine this week.",
+    "caption": "Formal writing exercise: use conditional structures to sound polite.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchemail"
     ]
   },
   {
     "id": "day_30",
-    "topic": "CTA community",
+    "topic": "Exercise: community",
     "slides": [
       {
         "type": "cover",
-        "title": "Your French needs a gym, not a textbook",
-        "subtitle": "The Milywan approach"
+        "title": "Community French challenge",
+        "subtitle": "Practice in the comments"
       },
       {
         "type": "info",
-        "title": "1.",
-        "body": "Practice must be repeated like training."
+        "title": "Task",
+        "body": "Write 3 French sentences about your French goal this month."
       },
       {
         "type": "info",
-        "title": "2.",
-        "body": "Train speaking, listening, writing, and review."
+        "title": "Use these",
+        "body": "Include: 1) « je souhaite » 2) one connector 3) one specific example."
       },
       {
         "type": "info",
-        "title": "3.",
-        "body": "Affordable live French practice can make consistency easier."
+        "title": "Model",
+        "body": "« Je souhaite parler plus naturellement. Pour cela, je vais pratiquer dix minutes par jour, par exemple à voix haute. »"
       },
       {
         "type": "cta",
-        "title": "Want more?",
-        "body": "Follow @milywan_education and join the community."
+        "title": "Comment yours",
+        "body": "Write your 3 sentences. We’ll practice together."
       }
     ],
-    "caption": "Your French needs a gym, not a textbook. Save this post and use it in your French routine this week.",
+    "caption": "Community challenge: write 3 sentences about your French goal using a connector and example.",
     "hashtags": [
       "#learnfrench",
       "#b2french",
-      "#frenchlearning",
-      "#tcfcanada",
-      "#tefcanada",
-      "#milywaneducation"
+      "#frenchpractice",
+      "#milywaneducation",
+      "#frenchcommunity"
     ]
   }
 ]
