@@ -1,0 +1,38 @@
+name: Daily Instagram Carousel
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_id:
+        description: "Optional post id, e.g. day_01"
+        required: false
+        default: ""
+  schedule:
+    # 13:00 UTC = 9 AM Toronto/Montreal during daylight saving time
+    - cron: "0 13 * * *"
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Publish Instagram carousel
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
+          GITHUB_PAGES_BASE_URL: "https://tanxzero.github.io/milywan-auto-posts"
+          POST_ID: ${{ github.event.inputs.post_id }}
+          START_DATE: "2026-06-22"
+        run: python post_to_instagram.py
